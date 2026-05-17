@@ -1,0 +1,15 @@
+# MATLAB temporary files
+*.asv
+*.m~
+*.autosave
+
+# MATLAB session/data files
+*.mat
+
+# Alternative or generated scripts
+main_aco_svm_ionosphere_profesyonel.m
+trainClassifier.m
+
+# OS files
+.DS_Store
+Thumbs.db
